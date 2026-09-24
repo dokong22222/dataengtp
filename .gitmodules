@@ -1,3 +1,3 @@
 [submodule "dockertp"]
 	path = 01_docker
-	url = git@github.com:riccardotommasini/dockertp.git
+	url = https://github.com/dokong22222/dockertp.git
